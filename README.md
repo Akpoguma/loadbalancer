@@ -34,7 +34,7 @@ Version: 2.7.3 | [Changelog](CHANGELOG.md) | [Issues](https://github.com/bigblue
     3. Ensure you use a docker version ≥ 23.0 : `$ docker --version`
 3. Clone this repository
    ```sh
-   $ git clone https://github.com/bigbluebutton/docker.git bbb-docker
+   $ git clone https://github.com/Akpoguma/loadbalancer.git bbb-docker
    $ cd bbb-docker
 
    # use the more stable main branch (sometimes older)
